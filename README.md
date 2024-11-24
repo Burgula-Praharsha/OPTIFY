@@ -15,6 +15,11 @@ This repository contains the source code and resources related to the tasks assi
     the python file,
     input data in csv format,
     output in pdf format
+- /task3-car_price_prediction
+   Includes:
+    the python file,
+    input data in csv format,
+    output in pdf format
 
 - **requirements.txt**  
   A list of dependencies required to run the project.
